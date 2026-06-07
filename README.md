@@ -33,10 +33,10 @@
 ## Публичные файлы
 - Положите дополнительные изображения в `public/images` и используйте через `/images/...`
 
-## Скриншот
-Добавьте сюда скриншот проекта:
+## Скриншоты
 
-![screenshot](./path/to/screenshot.png)
+![screenshot](/images/PhotositeMobile.png)
+![screenshot](/images/PhotositeDesktop.png)
 
 ## Примечания
 - Код организован в папке `src/app`. Компоненты находятся в соответствующих подпапках.
