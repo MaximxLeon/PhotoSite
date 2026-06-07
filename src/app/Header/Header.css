@@ -1,0 +1,19 @@
+.bg {
+  position: relative;
+  background-image: url('/images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.bg > * {
+  position: relative;
+  z-index: 1;
+}

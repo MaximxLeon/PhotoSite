@@ -1,0 +1,19 @@
+.contact {
+  position: relative;
+  background-image: url('/images/photo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.contact::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.contact > * {
+  position: relative;
+  z-index: 1;
+}
