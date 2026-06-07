@@ -35,8 +35,16 @@
 
 ## Скриншоты
 
-![screenshot](public/images/PhotositeMobile.png)
-![screenshot](public/images/PhotositeDesktop.png)
+<details>
+  <summary>Скриншоты проекта</summary>
+
+  ### Mobile
+  ![mobile](/images/PhotositeMobile.png)
+
+  ### Desktop
+  ![desktop](/images/PhotositeDesktop.png)
+
+</details>
 
 ## Примечания
 - Код организован в папке `src/app`. Компоненты находятся в соответствующих подпапках.
