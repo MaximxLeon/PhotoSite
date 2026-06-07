@@ -39,10 +39,10 @@
   <summary>Скриншоты проекта</summary>
 
   ### Mobile
-  ![mobile](/images/PhotositeMobile.png)
+  ![mobile](public/images/PhotositeMobile.png)
 
   ### Desktop
-  ![desktop](/images/PhotositeDesktop.png)
+  ![desktop](public/images/PhotositeDesktop.png)
 
 </details>
 
